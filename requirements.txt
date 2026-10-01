@@ -1,0 +1,6 @@
+streamlit
+torch
+torchaudio
+transformers
+edge-tts
+soundfile
